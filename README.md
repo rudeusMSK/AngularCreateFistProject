@@ -1,5 +1,35 @@
 # AngularCreateFistProject
 
+# CHẠY NHANH: 🤩🤩
+
+Install: nvm, npm, Angular CLI
+
+> nvm
+
+> npm
+
+> npm install -g @angular/cli
+
+Create project:
+> ng new <`project-name`>
+
+Help:
+
+> `npm start` to run
+
+> press `h` + `enter` to show help
+
+> press `r` + `enter` to force reload browser
+
+> press `u` + `enter` to show server url
+
+> press `o` + `enter` to open in browser
+
+> press `c` + `enter` to clear console
+
+> press `q` + `enter` to quit
+
+  <br>
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
 
 ## Development server
