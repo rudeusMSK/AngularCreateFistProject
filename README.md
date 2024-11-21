@@ -11,6 +11,9 @@ Install: nvm, npm, Angular CLI
 > npm install -g @angular/cli
 
 Create project:
+<br> setting: 
+> `sass(scss)` (y), `SSR` and `SSG` (y), `Server Routing` and `App Engine APIs` (y)
+
 > ng new <`project-name`>
 
 Help:
