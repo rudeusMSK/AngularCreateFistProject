@@ -1,0 +1,13 @@
+<section class="banner-area" id="home">	
+    <div class="container">
+        <div class="row fullscreen d-flex align-items-center justify-content-start">
+<section class="banner">
+<app-parent-to-child
+*ngFor="let hero of heroes"
+[hero]="hero"
+[master]="master">
+</app-parent-to-child>
+</section>
+</div>
+</div>
+</section>
