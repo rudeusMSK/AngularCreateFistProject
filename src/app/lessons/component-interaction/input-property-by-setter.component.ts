@@ -4,8 +4,10 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'app-input-property-by-setter',
   imports: [CommonModule],
-  templateUrl: './input-property-by-setter.component.html',
-  styleUrl: './input-property-by-setter.component.scss'
+  template: `
+    <p>input-property-by-setter works!</p>
+    <h3>"{{name}}"</h3>
+  `
 })
 export class InputPropertyBySetterComponent {
 @Input()

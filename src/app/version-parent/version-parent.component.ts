@@ -5,7 +5,20 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-version-parent',
   imports: [VersionChildComponent, CommonModule],
-  templateUrl: './version-parent.component.html',
+  template: `
+  <section class="banner-area" id="home">	
+    <div class="container">
+        <div class="row fullscreen d-flex align-items-center justify-content-start">
+<section class="banner">
+    <button type="button" (click)="newMinor()">New minor version</button>
+    <button type="button" (click)="newMajor()">New major version</button>
+    <app-version-child [major]="major" [minor]="minor"></app-version-child>
+            
+</section>
+</div>
+</div>
+</section>
+  `,
   styleUrl: './version-parent.component.scss'
 })
 export class VersionParentComponent{

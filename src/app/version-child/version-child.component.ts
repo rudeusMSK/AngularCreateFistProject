@@ -5,7 +5,14 @@ import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
 @Component({
   selector: 'app-version-child',
   imports: [CommonModule],
-  templateUrl: './version-child.component.html',
+  template: `
+  <p>version-child works!</p>
+<h3>Version {{major}}.{{minor}}</h3>
+<h4>Change log:</h4>
+<ul>
+  <li *ngFor="let change of changeLog">{{change}}</li>
+</ul>
+  `,
   styleUrl: './version-child.component.scss'
 })
 export class VersionChildComponent implements OnChanges {
