@@ -1,8 +1,10 @@
 import { Component } from '@angular/core';
-import { ComponentParentComponent } from "../component-parent.component";
+import { ComponentParentComponent } from "../services/component-parent.component";
 import { VersionParentComponent } from "../../../version-parent/version-parent.component";
 import { CommonModule } from '@angular/common';
-import { NameParentComponent } from '../name-parent.component';
+import { NameParentComponent } from '../services/name-parent.component';
+import { VoteTakerComponent } from "../services/votetaker.component";
+import { CountdownLocalVarParentComponent } from "../services/countdown-parent.component";
 
 @Component({
   selector: 'app-page',
@@ -10,7 +12,9 @@ import { NameParentComponent } from '../name-parent.component';
     CommonModule,
     ComponentParentComponent,
     VersionParentComponent,
-    NameParentComponent
+    NameParentComponent,
+    VoteTakerComponent,
+    CountdownLocalVarParentComponent
 ],
   templateUrl: './page.component.html',
   styleUrl: './page.component.scss'

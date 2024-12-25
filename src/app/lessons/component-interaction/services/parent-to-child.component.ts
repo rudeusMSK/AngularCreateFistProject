@@ -1,5 +1,5 @@
 import { Component, Input, ViewEncapsulation } from '@angular/core';
-import { Hero } from './services/hero';
+import { Hero } from './hero';
 import { CommonModule } from '@angular/common';
 
 @Component({

@@ -1,5 +1,5 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-import { HEROES } from './services/hero';
+import { HEROES } from './hero';
 import { ParentToChildComponent } from "./parent-to-child.component";
 import { CommonModule } from '@angular/common';
 @Component({
@@ -9,6 +9,8 @@ import { CommonModule } from '@angular/common';
     <div class="container">
         <div class="row fullscreen d-flex align-items-center justify-content-start">
 <section class="banner">
+
+
 <app-parent-to-child
 *ngFor="let hero of heroes"
 [hero]="hero"

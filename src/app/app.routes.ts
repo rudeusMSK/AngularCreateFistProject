@@ -7,9 +7,6 @@ import { ProductCreateComponent } from './page/mainProduct/product-create/produc
 import { ProductUpdateComponent } from './page/mainProduct/product-update/product-update.component';
 import { ProductDeleteComponent } from './page/mainProduct/product-delete/product-delete.component';
 import { ProductDetailsComponent } from './page/mainProduct/product-details/product-details.component';
-import { ComponentParentComponent } from './lessons/component-interaction/component-parent.component';
-import { NameParentComponent } from './lessons/component-interaction/name-parent.component';
-import { VersionParentComponent } from './version-parent/version-parent.component';
 import { PageComponent } from './lessons/component-interaction/page/page.component';
 
 
