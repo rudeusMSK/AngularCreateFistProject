@@ -5,6 +5,6 @@
 
 ## Design And Ideas
 
-1. thiết kế:
+1 thiết kế:
 - đang trong giai đoạn trình bầy ý tưởng...
 
