@@ -4,6 +4,7 @@
 - trang giao diện chính có banner, top ani của mùa...
 
 ## Design And Ideas
-1.thiết kế:
+
+1. thiết kế:
 - đang trong giai đoạn trình bầy ý tưởng...
 
