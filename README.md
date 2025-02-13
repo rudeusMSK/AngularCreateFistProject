@@ -6,5 +6,6 @@
 ## Design And Ideas
 
 1. thiết kế:
- - đang trong giai đoạn trình bầy ý tưởng...
+ 
+- đang trong giai đoạn trình bầy ý tưởng...
 
