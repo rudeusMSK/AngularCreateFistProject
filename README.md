@@ -8,6 +8,6 @@
 1. thiết kế:
  
 - đang trong giai đoạn trình bầy ý tưởng...
-  - nên ý tưởng ✓
+  - nêu ý tưởng ✓
   - đang trong giai đoạn trình trình bầy wireframe...
 
