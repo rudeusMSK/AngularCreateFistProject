@@ -9,5 +9,5 @@
  
 - đang trong giai đoạn trình bầy ý tưởng...
   - nêu ý tưởng ✓
-  - đang trong giai đoạn trình trình bầy wireframe...
+  - đang trong giai đoạn trình trình bầy wireframe... | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1).
 
