@@ -5,7 +5,7 @@
 
 ## Design And Ideas
 
-1. thiết kế:
+1. thiết kế (Design UI/UX):
 - Ký hiệu ``trạng thái``:
   - ✓ - đã hoàn thành.
   - ✘ - chưa hoàn thành.
@@ -23,4 +23,12 @@
 | `khuyến nghị anime của mùa` | none | ✓ |
 | `tất cả anime của mùa` | none | ✓ |
 | `chi tiết anime của mùa ` | none | ✈✈✈ |
+
+
+2. thiết kế CSDL (Design Database) ✘
+3. Cải tạo khung dự án (Refactor Project) ✘
+4. tạo chức năng hệ thống (Code BE Funtions) ✘
+5. tạo chức giao diện (Code FE Funtions) ✘
+6. ...
+7. ...
 
