@@ -6,8 +6,21 @@
 ## Design And Ideas
 
 1. thiết kế:
- 
-- đang trong giai đoạn trình bầy ý tưởng...
+- Ký hiệu ``trạng thái``:
+  - ✓ - đã hoàn thành.
+  - ✘ - chưa hoàn thành.
+  - ✈ - đang xây dựng.
+- đang trong giai đoạn trình bầy ý tưởng ✈
   - nêu ý tưởng ✓
-  - đang trong giai đoạn trình trình bầy wireframe... | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1).
+  - đang trong giai đoạn trình trình bầy wireframe ✈✈
+
+
+| Tên hoặc mô tả | ghi chú | ``trạng thái`` |
+|  :--- |  :---: |  :---: |
+| liên kết `wireframe` trên `figma` | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1) | ✓ |
+| `trang chính` | none | ✓ |
+| `chi tiết nhân vật` | none | ✓ |
+| `khuyến nghị anime của mùa` | none | ✓ |
+| `tất cả anime của mùa` | none | ✓ |
+| `chi tiết anime của mùa ` | none | ✈✈✈ |
 
