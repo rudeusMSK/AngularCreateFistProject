@@ -10,6 +10,7 @@
   - ✓ - đã hoàn thành.
   - ✘ - chưa hoàn thành.
   - ✈ - đang xây dựng.
+  - 🔧 - đang sửa chữa.
 - đang trong giai đoạn trình bầy ý tưởng ✈
   - nêu ý tưởng ✓
   - đang trong giai đoạn trình trình bầy wireframe ✈✈
