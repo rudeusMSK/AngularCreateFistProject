@@ -15,23 +15,6 @@
   - nêu ý tưởng ✓
   - đang trong giai đoạn trình trình bầy wireframe ✈✈
 
-Wireframe: Desktop - ipadây là Project tái bản của AngularCreateFistProject
-- mục tiêu là biến project thành một Blog Review Anime của mình.
-- những thứ có thể có bao gồm các thao tác đăng sửa xóa bài cơ bản.
-- trang giao diện chính có banner, top ani của mùa...
-
-## Design And Ideas
-
-1. thiết kế (Design UI/UX):
-- Ký hiệu ``trạng thái``:
-  - ✓ - đã hoàn thành.
-  - ✘ - chưa hoàn thành.
-  - ✈ - đang xây dựng.
-  - 🔧 - đang sửa chữa.
-- đang trong giai đoạn trình bầy ý tưởng ✈
-  - nêu ý tưởng ✓
-  - đang trong giai đoạn trình trình bầy wireframe ✈✈
-
 Wireframe: Desktop - iPad (992px and up)
 
 | Tên hoặc mô tả | ghi chú | ``trạng thái`` |
@@ -41,7 +24,7 @@ Wireframe: Desktop - iPad (992px and up)
 | `khuyến nghị anime của mùa` | none | ✓ |
 | `tất cả anime của mùa` | none | ✓ |
 | `chi tiết anime` | none | ✓ |
-| `đăng bài viết` | none | ✘ |
+| `đăng bài viết` | none | ✈✈✈ |
 | `xếp hạng` | none | ✘ |
 | `bình chọn xếp hạng` | none | ✘ |
 | `chi tiết nhân vật` | none | ✓ |
