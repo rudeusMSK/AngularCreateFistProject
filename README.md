@@ -41,7 +41,7 @@ Wireframe: Desktop - iPad (992px and up)
 | `chi tiết nhân vật` | none | ✓ |
 | `khuyến nghị anime của mùa` | none | ✓ |
 | `tất cả anime của mùa` | none | ✓ |
-| `chi tiết anime của mùa ` | none | ✈✈✈ |
+| `chi tiết anime` | none | ✓ |
 
 Wireframe: mobile (viewport < 768px)
 
