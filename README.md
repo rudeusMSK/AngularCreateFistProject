@@ -35,18 +35,24 @@ Wireframe: Desktop - ipadây là Project tái bản của AngularCreateFistProje
 Wireframe: Desktop - iPad (992px and up)
 
 | Tên hoặc mô tả | ghi chú | ``trạng thái`` |
-|  :--- |  :---: |  :---: |
+|  :--- |  :--- |  :---: |
 | liên kết `wireframe` trên `figma` | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1) | ✓ |
 | `trang chính` | none | ✓ |
-| `chi tiết nhân vật` | none | ✓ |
 | `khuyến nghị anime của mùa` | none | ✓ |
 | `tất cả anime của mùa` | none | ✓ |
 | `chi tiết anime` | none | ✓ |
+| `đăng bài viết` | none | ✘ |
+| `xếp hạng` | none | ✘ |
+| `bình chọn xếp hạng` | none | ✘ |
+| `chi tiết nhân vật` | none | ✓ |
+| `vòng loại xếp hạng` | none | ✘ |
+| `công bố kết quả` | none | ✘ |
+| `tài khoản n.vat` | #D_01: tài khoản là nv anime bất kì được cấp cố định không tạo tk.<br> Các người dùng join vào tk được đánh số id để xác minh, khi nhân vật tk đạt hạng Rank cao trong xếp hạng sẽ hiện danh sách thành viên theo id <br> `vd: charater: Monkey D.Luffy - Rank: #1 - Luffy con: #001, #00,2 #003` <br> ngoài ra sẽ không có bất kì thông tin nào khác từ người bình chọn | ✘ |
 
 Wireframe: mobile (viewport < 768px)
 
 | Tên hoặc mô tả | ghi chú | ``trạng thái`` |
-|  :--- |  :---: |  :---: |
+|  :--- |  :--- |  :---: |
 | liên kết `wireframe` trên `figma` | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1) | ✓ |
 
 2. thiết kế CSDL (Design Database) ✘
