@@ -25,7 +25,7 @@ Wireframe: Desktop - iPad (992px and up)
 | `tất cả anime của mùa` | none | ✓ |
 | `chi tiết anime` | none | ✓ |
 | `chi tiết bài viết` | none | ✓ |
-| `xếp hạng nhân vật` | none | ✘ |
+| `xếp hạng nhân vật` | none | ✓ |
 | `bình chọn xếp hạng` | none | ✘ |
 | `chi tiết nhân vật` | none | ✓ |
 | `vòng loại xếp hạng` | none | ✘ |
