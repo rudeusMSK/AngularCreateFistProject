@@ -26,7 +26,7 @@ Wireframe: Desktop - iPad (992px and up)
 | `chi tiết anime` | none | ✓ |
 | `chi tiết bài viết` | none | ✓ |
 | `xếp hạng nhân vật` | none | ✓ |
-| `bình chọn xếp hạng` | none | ✘ |
+| `bình chọn xếp hạng` | none | ✓ |
 | `chi tiết nhân vật` | none | ✓ |
 | `vòng loại xếp hạng` | none | ✘ |
 | `công bố kết quả` | none | ✘ |
