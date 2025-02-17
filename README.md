@@ -40,26 +40,29 @@ Wireframe: mobile (viewport < 768px)
 | liên kết `wireframe` trên `figma` | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1) | ✓ |
 
 2. tạo chất liệu:
-- chất liệu có sẵn.
-  -
-  -
-  -
-- thiết kế chất liệu giao diện: ✈✈
-  - Logo
-  - nút nhấn
-  - icon
-  - intro
-  - theme
-  - Layer
-  - khung
-  - 
-
+ - chất liệu có sẵn.
+    - Hình ảnh Anime từ API. ✓
+    -
+    -
+ - thiết kế chất liệu giao diện: ✈✈
+    - Logo
+    - nút nhấn
+    - icon
+    - intro
+    - theme
+    - Layer
+    - khung
+    - Nhân vật cắt background
+    - background
+    - svg
+    - 
   
-
-## thiết kế CSDL (Design Database) ✘
+<!---
+[## thiết kế CSDL (Design Database) ✘
 ## Cải tạo khung dự án (Refactor Project) ✘
 ## tạo chức năng hệ thống (Code BE Funtions) ✘
 ## tạo chức giao diện (Code FE Funtions) ✘
 ## ...
-## ...
+## ...](url)
+-->
 
