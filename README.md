@@ -28,8 +28,8 @@ Wireframe: Desktop - iPad (992px and up)
 | `xếp hạng nhân vật` | none | ✓ |
 | `bình chọn xếp hạng` | none | ✓ |
 | `chi tiết nhân vật` | none | ✓ |
-| `vòng loại xếp hạng` | none | ✘ |
-| `công bố kết quả` | none | ✘ |
+| `vòng loại xếp hạng` | none | ✓ |
+| `công bố kết quả` | none | ✓ |
 | `đăng bài viết` | none | ✈✈✈ |
 | `tài khoản n.vat` | #D_01: tài khoản là nv anime bất kì được cấp cố định không tạo tk.<br> Các người dùng join vào tk được đánh số id + mật khẩu để xác minh, khi nhân vật tk đạt hạng Rank cao trong xếp hạng sẽ hiện danh sách thành viên theo id <br> `vd: charater: Monkey D.Luffy - Rank: #1 - Luffy con: #001, #002, #003` <br> ngoài ra sẽ không có bất kì thông tin nào khác từ người bình chọn | ✘ |
 
