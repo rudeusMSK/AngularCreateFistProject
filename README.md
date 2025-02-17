@@ -40,7 +40,19 @@ Wireframe: mobile (viewport < 768px)
 | liên kết `wireframe` trên `figma` | [tại đây](https://www.figma.com/design/fgX0eg3NZonqN1RlvywQd0/BLOG-ANIME?node-id=0-1&t=NgMK65rTST1jAEjc-1) | ✓ |
 
 2. tạo chất liệu:
-   thiết kế chất liệu giao diện: ✈✈
+- chất liệu có sẵn.
+  -
+  -
+  -
+- thiết kế chất liệu giao diện: ✈✈
+  - Logo
+  - nút nhấn
+  - icon
+  - intro
+  - theme
+  - Layer
+  - khung
+  - 
 
   
 
