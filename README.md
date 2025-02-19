@@ -47,6 +47,8 @@ Wireframe: mobile (viewport < 768px)
  - thiết kế chất liệu giao diện: ✈✈
     - Logo
     - nút nhấn
+      - nút 1. ✓
+      - nút 2. ✓
     - icon
     - intro
     - theme
