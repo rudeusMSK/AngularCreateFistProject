@@ -53,10 +53,10 @@ Wireframe: mobile (viewport < 768px)
     - intro
     - theme
     - Layer
-    - khung
-    - Nhân vật cắt background
+    - khung ✓
+    - Nhân vật cắt background ✓
     - background
-    - svg
+    - svg ✓
     - 
   
 <!---
