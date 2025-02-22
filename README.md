@@ -46,18 +46,18 @@ Wireframe: mobile (viewport < 768px)
     -
  - thiết kế chất liệu giao diện: ✈✈
     - Logo
-    - nút nhấn
-      - nút 1. ✓
-      - nút 2. ✓
-    - icon
+    - nút nhấn ✓
+    - icon ✓
     - intro
     - theme
-    - Layer
+    - Layer ✓
     - khung ✓
     - Nhân vật cắt background ✓
-    - background
+    - background ✓
     - svg ✓
-    - 
+  - tạo bản thử cho từng wireframe:
+    - register ✓
+    -  
   
 <!---
 [## thiết kế CSDL (Design Database) ✘
