@@ -57,7 +57,7 @@ Wireframe: mobile (viewport < 768px)
     - svg ✓
   - tạo bản thử cho từng wireframe:
     - register ✓
-    -  
+    - Main ✈✈✈
   
 <!---
 [## thiết kế CSDL (Design Database) ✘
