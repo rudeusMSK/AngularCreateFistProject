@@ -15,7 +15,7 @@
   - nêu ý tưởng ✓
   - đang trong giai đoạn trình trình bầy wireframe
 
-Wireframe: Desktop - iPad (992px and up)
+Wireframe: Desktop - iPad (992px and up) 🔧 (chỉnh sửa mô tả cho từng wf)
 
 | Tên hoặc mô tả | ghi chú | ``trạng thái`` |
 |  :--- |  :--- |  :---: |
@@ -58,7 +58,7 @@ Wireframe: mobile (viewport < 768px)
   - tạo bản thử cho từng wireframe:
     - register ✓
     - Main ✓
-    - Top Charater ✈✈✈
+    - Top Charater ✓
   
 <!---
 [## thiết kế CSDL (Design Database) ✘
