@@ -42,8 +42,8 @@ Wireframe: mobile (viewport < 768px)
 2. tạo chất liệu:
  - chất liệu có sẵn.
     - Hình ảnh Anime từ API. ✓
-    -
-    -
+    - Chôm ở đâu đó trên mạng
+    - từ các trang web của tác phẩm gốc và các trang game, quảng cáo, web giới thiệu anime-tác phẩm manga...
  - thiết kế chất liệu giao diện: ✈✈
     - Logo ✓
     - nút nhấn ✓
