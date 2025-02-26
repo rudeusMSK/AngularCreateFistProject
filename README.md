@@ -3,7 +3,36 @@
 - những thứ có thể có bao gồm các thao tác đăng sửa xóa bài cơ bản.
 - trang giao diện chính có banner, top ani của mùa...
 
-## Design And Ideas
+
+# Documents ver.1
+
+<details open="" align="left">
+  <summary>
+   &#9996; Giai đoạn thiết kế cho trang Blog.</summary>
+    <br>
+<details lose="" align="left">
+  <summary>
+      1. Wireframe &#9997;
+  </summary>
+    <br>
+  mô tả Wireframe:
+  ...
+  </details>
+</details>
+
+<details lose="" align="left">
+  <summary>
+      1. Demo bản vẽ của Blog &#9997;
+  </summary>
+    <br>
+  ...
+  </details>
+</details>
+<br>
+
+# progress
+
+Design And Ideas
 
 1. thiết kế (Design UI/UX):
 - Ký hiệu ``trạng thái``:
