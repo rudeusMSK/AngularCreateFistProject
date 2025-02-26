@@ -22,7 +22,7 @@
 
 <details lose="" align="left">
   <summary>
-      1. Demo bản vẽ của Blog &#9997;
+      1. Demo bản vẽ của Blog 🎨🖌️
   </summary>
     <br>
   ...
@@ -32,7 +32,7 @@
 
 <details lose="" align="left">
   <summary> 
-      # progress 
+      # progress ⚔
   </summary>
   <br>
 Design And Ideas
