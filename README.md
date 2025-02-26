@@ -18,8 +18,6 @@
   mô tả Wireframe:
   ...
   </details>
-</details>
-
 <details lose="" align="left">
   <summary>
       1. Demo bản vẽ của Blog 🎨🖌️
@@ -27,9 +25,8 @@
     <br>
   ...
   </details>
-</details>
+  </details>
 <br>
-
 <details lose="" align="left">
   <summary> 
       # progress ⚔
