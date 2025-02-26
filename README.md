@@ -30,8 +30,11 @@
 </details>
 <br>
 
-# progress
-
+<details lose="" align="left">
+  <summary> 
+      # progress 
+  </summary>
+  <br>
 Design And Ideas
 
 1. thiết kế (Design UI/UX):
@@ -88,6 +91,8 @@ Wireframe: mobile (viewport < 768px)
     - register ✓
     - Main ✓
     - Top Charater ✓
+    - Vote charater ✓
+    - main vote ✓
   
 <!---
 [## thiết kế CSDL (Design Database) ✘
@@ -98,3 +103,4 @@ Wireframe: mobile (viewport < 768px)
 ## ...](url)
 -->
 
+</details>
