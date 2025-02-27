@@ -11,15 +11,13 @@
 🔥 trước khi các bạn đọc tiếp xin hãy dành một ít thời gian để lưu ý các điều sau:
 - project này là hoàn hoàn toàn miễn phí.
 - Mình xin lỗi vì đã lấy một số hình ảnh, thiết kế của một số nguồn tài nguyên trên mạng mà không
-  xin phép, nhưng mình xin cam kết
-  chúng hoàn toàn không tính phí.
+  xin phép, nhưng mình xin cam kết chúng hoàn toàn không tính phí.
 - Mình cảm ơn các cá nhân, các trang web, blog, các nguồn khung cấp ảnh miễn phí đã giúp mình có
   được những thiết kế tuyệt vời này.
 - ở phần hướng đẫn chúng mình có Document và phần tiến trình của dự án các bạn có thể xem qua.
 - cả hai phần Document và tiến trình vẫn đang trong quá trình xây dưng xuyên suốt dự án.
 - nếu các bạn muốn giúp chúng mình hoàn thiện hơn hãy liên hệ và góp ý về những thiếu sót của
-  chúng mình cũng như đóng góp ý kiến
-  của các bạn.
+  chúng mình cũng như đóng góp ý kiến của các bạn.
 - Các bạn có thể liên hệ với mình về project thông qua các địa chỉ liên lạc trên file
   Readme.md của mình đính kèm.
 
