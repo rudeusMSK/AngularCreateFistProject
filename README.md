@@ -3,8 +3,20 @@
 - những thứ có thể có bao gồm các thao tác đăng sửa xóa bài cơ bản.
 - trang giao diện chính có banner, top ani của mùa...
 
+<h1>Xin chào!</h1>
 
-# Documents ver.1
+<h3>-⁠ ＜(´⌯  ̫⌯`)＞ฅ mình là lên ý tưởng và cũng là một trong những người trực tiếp thực hiện project này. </h3>
+
+trước khi các bạn đọc tiếp xin hãy dành một ít thời gian để lưu ý các điều sau:
+- project này là hoàn hoàn toàn miễn phí.
+- Mình xin lỗi vì đã lấy một số hình ảnh, thiết kế của một số nguồn tài nguyên trên mạng mà không xin phép, nhưng mình xin cam kết chúng hoàn toàn không tính phí.
+- Mình cảm ơn các cá nhân, các trang web, blog, các nguồn khung cấp ảnh miễn phí đã giúp mình có được những thiết kế tuyệt vời này.
+- ở phần hướng đẫn chúng mình có Document và phần tiến trình của dự án các bạn có thể xem qua.
+- cả hai phần Document và tiến trình vẫn đang trong quá trình xây dưng xuyên suốt dự án.
+- nếu các bạn muốn giúp chúng mình hoàn thiện hơn hãy liên hệ và góp ý về những thiếu sót của chúng mình cũng như đóng góp ý kiến của các bạn.
+- Các bạn có thể liên hệ với mình về project thông qua các địa chỉ liên lạc trên file Readme.md của mình đính kèm.
+
+# Documents ver .1
 
 <details open="" align="left">
   <summary>
@@ -14,7 +26,51 @@
   <summary>
       1. Wireframe &#9997;
   </summary>
-    
+  <h2></h2>
+  
+  <h2>1.1. Chú giải ký hiệu và từ ngữ </h2>
+
+một số lưu ý về khái niệm:
+
+【 1 】Mùa vote.
+một mùa sẽ có nhiều đợt vote để tìm ra nhân vật đạt thứ hạng cao trong mùa đó.
+
+
+【 2 】đợt vote.
+đợt vote thường diễn ra vào thời gian ngắn từ 1 - 2 ngày hay một tuần tùy theo thể thức vote 
+để tìm ra nhân vật tiếp theo vào vòng trong của mùa vote. Đợt vote được tổ chức theo thời gian và các
+các【 4 】ứng viên do quản trị viên tổ chức, hình thức tùy theo quản trị viên thiết đặt mà sẽ có nhiều lựa chọn
+để vote hoặc chỉ được vote duy nhất một lần.
+
+【 3 】Family
+Lấy cảm hứng từ tiểu thuyết Light Nove Hầm Ngục Tối các người dùng khi tạo 【 6 】tk đã
+đã chọn nhân vật của yêu thích của mình các người chơi chọn cùng nhân vật sẽ cùng chung một Family
+vd: các tk #1 và #2 đã chọn nhân vật conan thì Family của họ sẽ là Family conan. 
+
+【 4 】ứng viên
+là các nhân vật Anime tham gia vào các các 【 1 】 mùa vote có trên hệ thống.
+
+
+【 5 】ss (season)
+season là một mùa của anime theo vì thường một bộ anime sẽ có 12 tập
+rơi vào 3 tháng một mùa nên ta có 4 mùa là: Đông, Xuân, Hạ, Thu.
+
+
+【 6 】tk (user)
+viết tắt của người dùng đăng ký tài khoản trên hệ thống.
+
+【 7 】banner
+có thể là hình ảnh, âm thanh, video, hình ảnh có chuyển động, có thể tương tác được hoặc không 
+tùy theo quy mô của 【 1 】 mùa vote đó.
+
+【 8 】quy hiệu
+là phần thưởng khi các【 4 】ứng viên chiến thắng 【 1 】 mùa vote, được làm riêng cho từng mùa và
+và chỉ có nhân vật đạt các thứ hạng từ I, II, III mới có thể nhận được.
+
+
+【 9 】phần mở rộng
+phần chứa các tính năng đang được xem xét đưa vào hay hủy bỏ.
+  
   <h2>1.2. mô tả Wireframe </h2>
 
   <h3>1.2.1. Wireframe - layout page </h3>
