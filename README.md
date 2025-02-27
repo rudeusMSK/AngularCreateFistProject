@@ -297,7 +297,6 @@ Chứa danh sách các bài đăng của Blog bao gồm:
   </details>
   </details>
 <br>
-</details>
 
 # progress ⚔
 
@@ -372,3 +371,4 @@ Wireframe: mobile (viewport < 768px)
 ## ...
 ## ...](url)
 -->
+</details>
