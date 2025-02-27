@@ -3,17 +3,22 @@
 - những thứ có thể có bao gồm các thao tác đăng sửa xóa bài cơ bản.
 - trang giao diện chính có banner, top ani của mùa...
 
-<h1 align="center"> Xin chào ! ＜(´⌯  ̫⌯`)＞ฅ </h1>
-<p>😺 Mình là người lên ý tưởng và cũng là một trong những người trực tiếp thực hiện project này.</p>
+<h1 align="center">😺 Xin chào 😺</h1>
 
+＜(´⌯  ̫⌯`)＞ฅ - Mình là người lên ý tưởng và cũng là một trong những người trực tiếp thực hiện project này.
+
+```
 🔥 trước khi các bạn đọc tiếp xin hãy dành một ít thời gian để lưu ý các điều sau:
 - project này là hoàn hoàn toàn miễn phí.
-- Mình xin lỗi vì đã lấy một số hình ảnh, thiết kế của một số nguồn tài nguyên trên mạng mà không xin phép, nhưng mình xin cam kết chúng hoàn toàn không tính phí.
+- Mình xin lỗi vì đã lấy một số hình ảnh, thiết kế của một số nguồn tài nguyên trên mạng mà không xin phép, nhưng mình xin cam kết
+  chúng hoàn toàn không tính phí.
 - Mình cảm ơn các cá nhân, các trang web, blog, các nguồn khung cấp ảnh miễn phí đã giúp mình có được những thiết kế tuyệt vời này.
 - ở phần hướng đẫn chúng mình có Document và phần tiến trình của dự án các bạn có thể xem qua.
 - cả hai phần Document và tiến trình vẫn đang trong quá trình xây dưng xuyên suốt dự án.
-- nếu các bạn muốn giúp chúng mình hoàn thiện hơn hãy liên hệ và góp ý về những thiếu sót của chúng mình cũng như đóng góp ý kiến của các bạn.
+- nếu các bạn muốn giúp chúng mình hoàn thiện hơn hãy liên hệ và góp ý về những thiếu sót của chúng mình cũng như đóng góp ý kiến
+  của các bạn.
 - Các bạn có thể liên hệ với mình về project thông qua các địa chỉ liên lạc trên file Readme.md của mình đính kèm.
+```
 
 # Documents ver .1
 
@@ -21,7 +26,7 @@
   <summary>
    &#9996; Giai đoạn thiết kế cho trang Blog.</summary>
     <br>
-<details open="" align="left">
+<details lose="" align="left">
   <summary>
       1. Wireframe &#9997;
   </summary>
@@ -31,6 +36,7 @@
 
 một số lưu ý về khái niệm:
 
+``` chú giải
 【 1 】Mùa vote.
 một mùa sẽ có nhiều đợt vote để tìm ra nhân vật đạt thứ hạng cao trong mùa đó.
 
@@ -69,6 +75,7 @@ và chỉ có nhân vật đạt các thứ hạng từ I, II, III mới có th�
 
 【 9 】phần mở rộng
 phần chứa các tính năng đang được xem xét đưa vào hay hủy bỏ.
+```
   
   <h2>1.2. mô tả Wireframe </h2>
 
