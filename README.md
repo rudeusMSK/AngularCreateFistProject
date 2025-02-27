@@ -10,14 +10,89 @@
   <summary>
    &#9996; Giai đoạn thiết kế cho trang Blog.</summary>
     <br>
-<details lose="" align="left">
+<details open="" align="left">
   <summary>
       1. Wireframe &#9997;
   </summary>
-    <br>
-  mô tả Wireframe:
-  ...
-  </details>
+    
+  <h2> mô tả Wireframe </h2>
+
+  <h3>1. Wireframe - layout page </h3>
+
+  Đây là wireframe mô tả phần viền bao quanh content của trang.
+
+- các thành phần hiển thị gồm có:
+
+- Menu điều hướng duy chuyển giữa các trang web.
+
+- Thanh hiển thị trạng thái đăng nhập của【 6 】user.
+
+    - nếu【 6 】user chưa đăng nhập hệ thống sẽ hiển thị trạng thái avatar ẩn danh kèm cảnh báo.
+      
+    - nếu ngược lại sẽ hiển thị tên người dùng và avatar【 3 】Family.
+
+- Logo của trang web.
+
+- Phần footer chứa thông tin của về các đơn vị tổ chức, một số thông tin nhanh về trang web.
+
+
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/76cb0989-e73b-4382-97cc-f2dd80513be3" width="300">
+  
+<br>
+ 
+<h3> 2. Wireframe - main page </h3>
+
+main page mô tả giao diện chính của trang web. Giao diện đầu tiên người dùng xem khi vào trang
+các thành phần con bao gồm:
+
+- một mục chính chứa 【 7 】banner của trang.
+
+- một mục phụ chứa các【 4 】ứng viên hoặc thông tin của vòng đấu hiện tại tùy theo thiết kế của chủ đề 【 1 】mùa vote đó.
+
+- một mục con chứa một số mô tả nhanh và các nhân vật sẽ góp mặt trong 【 2 】 đợt vote của mùa vote.
+
+- bản danh sách chứa các mùa và thông tin của chúng.
+
+- bản chứa tiêu đề và một số thông tin【 2 】đợt vote của mùa trước.
+
+- một phần con chứa thông tin về ss của mùa và hiển thị ngẫu nhiên một bộ anime của mùa kèm theo một số thông tin.
+
+- một mục chứa bài review, bài viết mới nhất trên kênh blog và một số thông tin như tiêu đề, số người xem và số lượt thích.
+
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/7854000a-6e8d-4b53-9560-8f9ca426e398" width="300">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+</details>
 <details lose="" align="left">
   <summary>
       1. Demo bản vẽ của Blog 🎨🖌️
