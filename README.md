@@ -297,13 +297,16 @@ Chứa danh sách các bài đăng của Blog bao gồm:
   </details>
   </details>
 <br>
+</details>
+
+# progress ⚔
+
 <details lose="" align="left">
   <summary> 
-      # progress ⚔
+      Design And Ideas
   </summary>
   <br>
-Design And Ideas
-
+  
 1. thiết kế (Design UI/UX):
 - Ký hiệu ``trạng thái``:
   - ✓ - đã hoàn thành.
@@ -369,5 +372,3 @@ Wireframe: mobile (viewport < 768px)
 ## ...
 ## ...](url)
 -->
-
-</details>
