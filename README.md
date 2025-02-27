@@ -15,9 +15,9 @@
       1. Wireframe &#9997;
   </summary>
     
-  <h2>1.1. mô tả Wireframe </h2>
+  <h2>1.2. mô tả Wireframe </h2>
 
-  <h3>1.1.1. Wireframe - layout page </h3>
+  <h3>1.2.1. Wireframe - layout page </h3>
 
   Đây là wireframe mô tả phần viền bao quanh content của trang.
 
@@ -42,7 +42,7 @@
   
 <br>
  
-<h3>1.1.2. Wireframe - main page </h3>
+<h3>1.2.2. Wireframe - main page </h3>
 
 main page mô tả giao diện chính của trang web. Giao diện đầu tiên người dùng xem khi vào trang
 Các thành phần con bao gồm:
@@ -67,7 +67,7 @@ Các thành phần con bao gồm:
 
 <br>
 
-<h3>1.1.3. Wireframe - Register user </h3>
+<h3>1.2.3. Wireframe - Register user </h3>
 
 Register mô tả trang đang ký【 6 】tk (user) cho người dùng. giao diện bao gồm các thành phần sau:
 - Avatar【 3 】Family, người dùng nếu chưa có tài khoản sẽ hiển thị avatar ẩn danh, ngược lại nếu 
@@ -91,7 +91,7 @@ Register mô tả trang đang ký【 6 】tk (user) cho người dùng. giao di�
 
 <br>
 
-<h3>1.1.4. Winner character vote. </h3>
+<h3>1.2.4. Winner character vote. </h3>
 
 Top 1 charater là trang dùng để công bố kết quả và các 【 2 】 đợt vote theo thời gian thực.
 Thành phần giao diện gồm các phần:
@@ -119,7 +119,7 @@ Thành phần giao diện gồm các phần:
 
 <br>
 
-<h3>1.1.5. Detail Character </h3>
+<h3>1.2.5. Detail Character </h3>
 
 update sau.
 
@@ -130,7 +130,7 @@ update sau.
 
 <br>
 
-<h3>1.1.6. Wireframe -  Vote character </h3>
+<h3>1.2.6. Wireframe -  Vote character </h3>
 
 Vote charater hiển thị giao diện để người dùng vote nhân vật của mình
 Hệ thống sẽ chỉ cho người dùng vote các nhân vật có thể vote trong【 2 】đợt vote đó.
@@ -166,7 +166,7 @@ Các thành phần giao diện gồm:
 
 <br>
 
-<h3>1.1.7. Wireframe - Review </h3>
+<h3>1.2.7. Wireframe - Review </h3>
 
 Chứa thông tin đầy đủ và nội dung của bài Review gồm những phần sau:
 
@@ -187,7 +187,7 @@ Chứa thông tin đầy đủ và nội dung của bài Review gồm những ph
 
 <br>
 
-<h3>1.1.8. Wireframe - List Review </h3>
+<h3>1.2.8. Wireframe - List Review </h3>
 
 Chứa danh sách các bài đăng của Blog bao gồm:
 
