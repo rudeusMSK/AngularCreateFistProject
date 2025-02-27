@@ -3,11 +3,10 @@
 - những thứ có thể có bao gồm các thao tác đăng sửa xóa bài cơ bản.
 - trang giao diện chính có banner, top ani của mùa...
 
-<h1>Xin chào!</h1>
+<h1 align="center"> Xin chào ! ＜(´⌯  ̫⌯`)＞ฅ </h1>
+<p>😺 Mình là người lên ý tưởng và cũng là một trong những người trực tiếp thực hiện project này.</p>
 
-<h3>-⁠ ＜(´⌯  ̫⌯`)＞ฅ mình là lên ý tưởng và cũng là một trong những người trực tiếp thực hiện project này. </h3>
-
-trước khi các bạn đọc tiếp xin hãy dành một ít thời gian để lưu ý các điều sau:
+🔥 trước khi các bạn đọc tiếp xin hãy dành một ít thời gian để lưu ý các điều sau:
 - project này là hoàn hoàn toàn miễn phí.
 - Mình xin lỗi vì đã lấy một số hình ảnh, thiết kế của một số nguồn tài nguyên trên mạng mà không xin phép, nhưng mình xin cam kết chúng hoàn toàn không tính phí.
 - Mình cảm ơn các cá nhân, các trang web, blog, các nguồn khung cấp ảnh miễn phí đã giúp mình có được những thiết kế tuyệt vời này.
