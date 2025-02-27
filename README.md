@@ -67,15 +67,44 @@ các thành phần con bao gồm:
 
 <br>
 
-<br>
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/96975bde-5262-4103-8b43-034434e56496" width="300">
+
 
 <br>
 
-<br>
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/31c2da6a-c0f4-4e3b-9aec-e89ff4dc9dc6" width="300">
+
 
 <br>
 
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/888271e2-d49c-4883-9155-8696d2e33d10" width="300">
+
+
 <br>
+
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/27897753-ec3d-4705-80fa-89203a16d9c2" width="300">
+
+
+<br>
+
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/afbebe52-152c-48de-8b45-8f063e169e08" width="300">
+
+
+<br>
+
+| Tên | hình ảnh |
+|  :--- |  :---: |
+| Wireframe - layout page|<img src="https://github.com/user-attachments/assets/5b9f7c58-9473-4b98-8273-a0f7cf1b6ff7" width="300">
 
 <br>
 
